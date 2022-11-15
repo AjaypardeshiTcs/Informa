@@ -10,6 +10,7 @@ public class Rev {
 	 System.out.println(rev);
 	 if(org.equals(rev)) {
 		 System.out.println("given string is  palindrome");
+		 System.out.println("Yes it will print nitin");
 	 }
 	 else {
 		 System.out.println("given string is not palindrome");

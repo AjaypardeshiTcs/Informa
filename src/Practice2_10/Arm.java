@@ -13,6 +13,7 @@ public class Arm {
 		}
 		if(actnum==armnum) {
 			System.out.println("Num is Armstrong");
+			System.out.println("hii"):
 		}
 		else {
 			System.out.println("Num is not Armstrong");
